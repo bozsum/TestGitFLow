@@ -8,5 +8,9 @@ public class Main {
         System.out.println("edit release 1");
         System.out.println("line 1 feature b");
         System.out.println("line 1 feature d");
+        System.out.println("line 2 feature d");
+        System.out.println("line 3 feature d");
+        System.out.println("line 4 feature d");
+        System.out.println("line 5 feature d");
     }
 }
