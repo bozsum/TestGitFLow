@@ -18,5 +18,6 @@ public class Main {
         System.out.println("line 3 feature e");
         System.out.println("line 1 feature g");
         System.out.println();
+        System.out.println();
     }
 }
